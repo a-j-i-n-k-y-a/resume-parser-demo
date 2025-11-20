@@ -34,6 +34,12 @@
  5. (Optional) Use the sidebar to add semantic filters (e.g., “Financial Analysis”).
  6. Click **Analyze Candidates** to view ranked matches.
  
+### Example Output
+
+![Indexing view](./Screenshot%202025-11-20%20at%201.30.30%E2%80%AFPM.png)
+
+![Matching results](./Screenshot%202025-11-20%20at%201.30.48%E2%80%AFPM.png)
+
  ## 📊 How Scoring Works
  The final score balances general semantic fit with specific keyword coverage:
  ```
